@@ -1,0 +1,15 @@
+E:\repo\Example\Ex004\bin\Debug\net7.0\Ex004.exe
+E:\repo\Example\Ex004\bin\Debug\net7.0\Ex004.deps.json
+E:\repo\Example\Ex004\bin\Debug\net7.0\Ex004.runtimeconfig.json
+E:\repo\Example\Ex004\bin\Debug\net7.0\Ex004.dll
+E:\repo\Example\Ex004\bin\Debug\net7.0\Ex004.pdb
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.csproj.AssemblyReference.cache
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.AssemblyInfoInputs.cache
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.AssemblyInfo.cs
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.csproj.CoreCompileInputs.cache
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.dll
+E:\repo\Example\Ex004\obj\Debug\net7.0\refint\Ex004.dll
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.pdb
+E:\repo\Example\Ex004\obj\Debug\net7.0\Ex004.genruntimeconfig.cache
+E:\repo\Example\Ex004\obj\Debug\net7.0\ref\Ex004.dll
