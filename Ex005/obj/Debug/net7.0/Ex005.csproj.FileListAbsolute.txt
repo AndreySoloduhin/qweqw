@@ -1,0 +1,7 @@
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.GeneratedMSBuildEditorConfig.editorconfig
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.AssemblyInfoInputs.cache
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.AssemblyInfo.cs
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.csproj.CoreCompileInputs.cache
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.dll
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\refint\Ex005.dll
+Z:\gt\qweqw\Ex005\obj\Debug\net7.0\Ex005.pdb
